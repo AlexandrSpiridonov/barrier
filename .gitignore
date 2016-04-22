@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.log
+*.obj
+*.tlog
+x64/Release/vc140.pdb
+barrier.vcxproj.user
